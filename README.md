@@ -1,4 +1,4 @@
-# Implicit ALS-Based Recommender System
+# ALS-Based Recommender System
 
 Our recommender system is built upon an **Implicit Alternating Least Squares (ALS)** base model, which utilizes a matrix factorization method derived from **Singular Value Decomposition (SVD)**.
 
